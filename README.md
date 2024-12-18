@@ -1,2 +1,3 @@
-# curso_java_demo_lambda5
-Introdução à Programação Orientada a Objetos (Expressões Lambda)
+# Problema exemplo
+Fazer um programa que, a partir de uma lista de produtos, calcule a
+soma dos preços somente dos produtos cujo nome começa com "T".
