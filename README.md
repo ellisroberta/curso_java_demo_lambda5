@@ -13,7 +13,7 @@ O projeto é dividido em três classes principais:
 - **ProductService**: Contém a lógica de negócios, incluindo o método para calcular a soma filtrada.
 
 ## Dependências
-    Este projeto é construído em Java e não possui dependências externas. Certifique-se de ter o JDK instalado em seu sistema.
+Este projeto é construído em Java e não possui dependências externas. Certifique-se de ter o JDK instalado em seu sistema.
 
 ## Como Funciona
 
