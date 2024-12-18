@@ -1,12 +1,12 @@
 # Exemplo de Cálculo de Soma de Preços Filtrados
 
 ## Introdução
-    Este projeto é um exemplo simples em Java que demonstra como calcular a soma dos preços de produtos com base em um critério
+Este projeto é um exemplo simples em Java que demonstra como calcular a soma dos preços de produtos com base em um critério
 específico. Neste caso, a soma é calculada apenas para os produtos cujo nome começa com a letra "T". O projeto ilustra o
 conceito de programação funcional, permitindo que funções sejam passadas como argumentos para outras funções.
 
 ## Estrutura do Projeto
-    O projeto é dividido em três classes principais:
+O projeto é dividido em três classes principais:
 
 - **Program**: Classe principal onde a execução do programa acontece.
 - **Product**: Representa um produto com um nome e um preço.
@@ -44,11 +44,11 @@ conceito de programação funcional, permitindo que funções sejam passadas com
 
 ## Execução
 
-    Para executar o projeto:
-        1. Certifique-se de ter o JDK instalado.
-        2. Compile as classes Java.
-        3. Execute a classe `Program`.
+Para executar o projeto:
+1. Certifique-se de ter o JDK instalado.
+2. Compile as classes Java.
+3. Execute a classe `Program`.
 
 ## Conclusão
-    Este projeto exemplifica como utilizar programação funcional em Java para realizar operações sobre coleções de forma
+Este projeto exemplifica como utilizar programação funcional em Java para realizar operações sobre coleções de forma
 eficiente e legível. A passagem de funções como argumentos permite criar códigos mais flexíveis e reutilizáveis.
